@@ -1,0 +1,1 @@
+{'Date': datetime.date(2025, 2, 25), 'Steps': 30, 'Water Intake (L)': 8.0, 'Calories': 7, 'Weight (kg)': 0.0, 'Height (m)': 4.5, 'BMI': 0.0}
